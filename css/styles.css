@@ -1,3 +1,16 @@
+/*** color- palet https://colorhunt.co/palette/f7ecdee9dac19ed2c654bab9   ****/
+/*************    https://colorhunt.co/palette/f9ebc8fefbe7dae5d0a0bcc2  ****/
+/*************    https://colorhunt.co/palette/f0ebe3e4dccf7d9d9c576f72  ****/
+/****** piked color #E0EBE8 ****/
+
 body {
-  background-color: blue;
+  margin: 0;
+}
+div {
+  background-color: #e0ebe8;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
 }
