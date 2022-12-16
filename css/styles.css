@@ -1,14 +1,29 @@
 /*** color- palet https://colorhunt.co/palette/f7ecdee9dac19ed2c654bab9   ****/
 /*************    https://colorhunt.co/palette/f9ebc8fefbe7dae5d0a0bcc2  ****/
 /*************    https://colorhunt.co/palette/f0ebe3e4dccf7d9d9c576f72  ****/
+/*************    https://colorhunt.co/palette/439a9762b6b797dececbedd5 ****/
 /****** piked color #E0EBE8 ****/
 
 body {
   margin: 0;
   text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 200%;
 }
 h1 {
-  margin-top: 0;
+  color: #439a97;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  color: #dae5d0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+h3 {
+  color: #62b6b7;
+  font-family: "Montserrat", sans-serif;
 }
 
 .top-container {
