@@ -14,16 +14,21 @@ h1 {
   color: #439a97;
   font-size: 5.625rem;
   font-family: "Sacramento", cursive;
+
   margin: 50px auto 0 auto;
 }
 h2 {
-  color: #dae5d0;
+  color: #e9dac1;
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
+  font-weight: normal;
 }
 h3 {
   color: #62b6b7;
   font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #62b6b7;
 }
 
 .top-container {
@@ -36,6 +41,14 @@ h3 {
 }
 .bottom-container {
 }
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
@@ -45,4 +58,14 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+.code-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.to-do-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
